@@ -19,3 +19,23 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 added another file
 
 test one...
+teskjasf lasjf  lk
+asd
+f
+asdfa
+sdfa
+sfa
+f
+f
+f
+f
+fas
+fas
+fas
+fas
+f
+fs
+fsa
+fas
+f
+s
